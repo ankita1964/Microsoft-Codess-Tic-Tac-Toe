@@ -2,7 +2,7 @@
 
 #### A 'Mars Colonization :volcano:' theme web application which makes use of the minimax algorithm to create an unbeatable version of the famous Noughts and Crosses game!  
 
-![alt text](https://github.com/ankita1964/MS_Teams_Clone/blob/master/Screenshot%202021-07-10%20at%201.43.44%20AM.png "Video Calling")  
+![alt text]()  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Have a Personalised Experience at Mars!  
